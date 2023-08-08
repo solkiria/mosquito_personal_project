@@ -5,3 +5,6 @@ The main goal of this project is to analyze past and present data of mosquito lo
 
 Project in progress... 👷‍♀️👩‍💻  ⏳ 🚀 
 
+
+## Bibliography
+GBIF.org (8 August 2023) GBIF Occurrence Download https://doi.org/10.15468/dl.tav5p5
