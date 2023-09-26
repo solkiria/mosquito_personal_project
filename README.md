@@ -1,7 +1,7 @@
 # Mosquito dispersal prediction
 This repository contains a personal project I have done to show my data skills using: { Python : [ Numpy , Pandas , Matplotlib , Seaborn , Scikit-learn , ETL ], SQL , Tableau , Power BI }.
 
-The main goal of this project is to analyze past and present data of mosquito locations, find out its climate and predict where mosquitos could go in a future due to climate change.
+The main goal of this project is to analyze data of mosquito locations, find out its climatic conditions and predict where mosquitos could go in a future due to climate change.
 
 **Project in progress**... 👷‍♀️👩‍💻  ⏳ 🚀 
 
